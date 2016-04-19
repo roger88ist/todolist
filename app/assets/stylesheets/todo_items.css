@@ -10,7 +10,7 @@ a:hover {
 .container {
   margin: auto;
   width: 60%;
-  padding: 10px
+  height: 100%;
 }
 h1 {
   font-family: "Century Gothic";
@@ -18,7 +18,30 @@ h1 {
 }
 body {
   font-family: "Century Gothic";
+  background-image: url("https://sharonmanship.files.wordpress.com/2013/04/whitelight-126212928_std1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+th {
+  color: white;
 }
 td {
   font-family: "Century Gothic";
+  color: white;
+}
+table {
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);;
+}
+p {
+  text-align: center;
+  font-family: "Century Gothic";
+}
+img {
+text-align: center;
+margin: auto;
+width: 50%;
+}
+html {
+  height: 100%;
 }
