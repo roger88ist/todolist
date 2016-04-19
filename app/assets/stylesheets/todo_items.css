@@ -18,9 +18,6 @@ h1 {
 }
 body {
   font-family: "Century Gothic";
-  background-image: url("https://sharonmanship.files.wordpress.com/2013/04/whitelight-126212928_std1.jpg");
-  background-repeat: no-repeat;
-  background-size: 100%;
 }
 th {
   color: white;
@@ -44,4 +41,10 @@ width: 50%;
 }
 html {
   height: 100%;
+}
+i {
+  width: 25%;
+}
+form {
+  text-align: center;
 }
