@@ -1,0 +1,24 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+a:hover {
+  text-decoration: none;
+  background: none;
+  color: lightgrey;
+}
+.container {
+  margin: auto;
+  width: 60%;
+  padding: 10px
+}
+h1 {
+  font-family: "Century Gothic";
+  text-align: center;
+}
+body {
+  font-family: "Century Gothic";
+}
+td {
+  font-family: "Century Gothic";
+}
