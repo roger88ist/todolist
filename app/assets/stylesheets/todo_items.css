@@ -27,8 +27,8 @@ td {
   color: white;
 }
 table {
-  margin: auto;
-  background-color: rgba(0, 0, 0, 0.5);;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 0px;
 }
 p {
   text-align: center;
@@ -47,4 +47,3 @@ i {
 }
 form {
   text-align: center;
-}
